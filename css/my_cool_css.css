@@ -1,0 +1,124 @@
+
+.container{
+background-color: #eaf6f7;
+}
+.a{
+   padding-left: 20px;
+
+}
+.container{
+    padding-top: 5px;
+}
+.col-md-2 img {
+    margin-top: 10px;   
+    height: 66px;
+    width: 180px;
+}
+nav{
+    margin: 10px 10px;
+}
+.b{
+    
+}
+
+.col-xs-12 c {  
+    margin-bottom: 10px;
+}
+.col-xs-12 img{
+    margin:10px 10px;
+}
+.content{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.c{
+    height: 320px;
+    width: 1140px;
+   
+    
+}
+ .d{
+    
+    margin-top:5px;
+    margin-bottom:5px;
+    padding: 10px 10px;
+}
+
+.e{
+    
+    margin-top:5px;
+    margin-bottom:5px;
+    padding: 10px 10px;
+}
+
+.f{
+    
+    width: 1140px;
+}
+.col-md-10 ul li{
+    float:left;
+}
+.col-md-10 li{
+    list-style-type: none;
+}
+.col-md-10 a{
+	text-transform:uppercase;
+	color:#ededed;
+	font-size:12px;
+	padding:16px 15px;
+    display:block;
+}
+
+#title {
+    padding-top: 12px;
+    background: url(../img/dashed_bg.png) repeat-x left bottom;
+    width: 350px;
+    margin-left: 50px;
+    margin-top: 5px;
+  
+}
+#title h3{
+    font-size: 25px;
+    margin-left: 30px;
+    margin-bottom:0;
+}
+span{
+    margin-left:10px;
+}
+.col-md-9 p{
+    margin:10px 15px;
+}
+.col-md-9 nav{
+    margin: 10px 10px;
+}
+#left{
+    margin-left: 20px;
+}
+#right{
+    margin-right: 25px;
+}
+.col-xs-12 ul{
+    width: 303px;
+}
+.col-xs-12 ul li{
+    float:left;
+    list-style-type: none;
+	}
+ 
+.footer-left{
+    float: left;
+    width: 900px;
+    margin-top:71px;
+}
+.footer-left a{
+    height: 47px;
+    width: 47px;
+}
+.footer-left p{
+   margin-left:305px;
+}
+.links {
+    float:right;
+    margin-right:50px;
+    margin-top:10px;
+}
