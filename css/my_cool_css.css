@@ -2,6 +2,9 @@
 .container{
 background-color: #eaf6f7;
 }
+.row{
+    padding-bottom:15px;
+}
 .a{
    padding-left: 20px;
 
@@ -34,9 +37,9 @@ nav{
 .c{
     height: 320px;
     width: 1140px;
-   
     
 }
+
  .d{
     
     margin-top:5px;
@@ -50,7 +53,9 @@ nav{
     margin-bottom:5px;
     padding: 10px 10px;
 }
-
+.list-group{
+    padding-left: 10px;
+}
 .f{
     
     width: 1140px;
