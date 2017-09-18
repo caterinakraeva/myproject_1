@@ -26,7 +26,7 @@ nav{
 }
 .col-xs-12 img{
     margin:10px 10px;
-}
+  }
 .content{
     margin-top:5px;
     margin-bottom:5px;
@@ -74,7 +74,7 @@ nav{
     background: url(../img/dashed_bg.png) repeat-x left bottom;
     width: 350px;
     margin-left: 50px;
-    margin-top: 5px;
+    margin-top: -35px;
   
 }
 #title h3{
